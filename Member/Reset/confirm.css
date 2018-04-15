@@ -1,0 +1,42 @@
+body {
+	font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+   line-height: 1.5em;
+   color:#666;
+   background-image: linear-gradient( 
+    	rgba(52, 116, 125, 0.5), 
+    	rgba(134, 208, 218, 0.5) ),
+   	url(../../image/img4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    }
+     .atas{
+            color: white;
+            height: 80px;
+            width: 450px;
+            padding:20px;
+            background: #4f757d;
+            margin: auto;
+            margin-top: 100px;
+        }
+        form{
+            background:#fff;
+            width: 450px;
+            padding:20px;
+            margin: auto;
+        }
+        h3{
+            text-align: center;
+            padding-bottom: 80px;
+        }
+
+        .conta{
+            margin: auto;
+            margin-top: 10%;
+        }
+        .input-group-addon{
+          color: #4f757d;
+        }

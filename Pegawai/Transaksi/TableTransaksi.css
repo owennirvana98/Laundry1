@@ -1,0 +1,27 @@
+
+hr {
+    border: 1px solid darkgray;
+    margin-top: 10px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+td {
+    text-align: center;
+    padding: 18px;
+}
+
+tr {
+    text-align: center;
+    padding: 12px;
+    background: #f4f2f2;
+
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}

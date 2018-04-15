@@ -1,0 +1,42 @@
+body {
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.5em;
+    color: #666;
+    background-image: linear-gradient(
+            rgba(43, 42, 42, 0.5),
+            rgba(44, 52, 53, 0.5)),
+    url(../../image/img4.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.atas {
+    color: white;
+    height: 80px;
+    width: 450px;
+    padding: 20px;
+    background: #272323;
+    margin: auto;
+    margin-top: 100px;
+}
+
+form {
+    background: white;
+    width: 450px;
+    padding: 20px;
+    margin: auto;
+}
+
+h3 {
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+.conta {
+    margin: auto;
+    margin-top: 10%;
+}
